@@ -1,0 +1,18 @@
+.todo-list {
+    background: white;
+    margin: 50px;
+    border: teal 1px solid;
+}
+
+.title {
+    background-color: teal;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.form {
+    background-color: whitesmoke;
+    border-bottom: teal 1px solid;
+}
+

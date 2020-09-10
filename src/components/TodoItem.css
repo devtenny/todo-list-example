@@ -1,0 +1,23 @@
+.todo-item {
+    display: flex;
+    padding: 5px;
+}
+
+.remove {
+    color: red;
+    margin-right: 5px;
+}
+
+.check-mark {
+    color: grey;
+    margin-left: 5px;
+}
+
+.todo-item:hover {
+    background-color: whitesmoke;
+}
+
+.todo-text.checked {
+    color: grey;
+    text-decoration: line-through;
+}

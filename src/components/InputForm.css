@@ -1,0 +1,13 @@
+.Inputform {
+    display: flex;
+    padding: 10px;
+}
+
+.input-text {
+    width: 100%;
+}
+
+.create-button {
+    width: 50px;
+    margin-left: 10px;
+}
